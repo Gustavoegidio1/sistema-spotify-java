@@ -28,3 +28,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+
+# Configurações locais do IntelliJ
+.idea/
+
+# Arquivos compilados Java
+*.class
+
+# Arquivos do Windows
+Thumbs.db
